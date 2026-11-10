@@ -1,3 +1,4 @@
+// вариант - 4
 #include <stdio.h>
 int main() {
 	int choice;
