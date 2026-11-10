@@ -1,3 +1,4 @@
+// вариант - 30
 #include <stdio.h>
 
 int main() {
