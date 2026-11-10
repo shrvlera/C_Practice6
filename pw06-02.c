@@ -1,3 +1,4 @@
+// вариант - 18
 #include <stdio.h>
 #include <wchar.h>
 #include <locale.h>
